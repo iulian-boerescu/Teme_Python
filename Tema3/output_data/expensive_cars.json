@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "bmw",
+    "model": "x6",
+    "hp": "205",
+    "price": "5800",
+    "id": 87
+  },
+  {
+    "brand": "ford",
+    "model": "mustang",
+    "hp": "330",
+    "price": "7000",
+    "id": 232
+  },
+  {
+    "brand": "volkswagen",
+    "model": "phaeton",
+    "hp": "400",
+    "price": "6500",
+    "id": 696
+  },
+  {
+    "brand": "audi",
+    "model": "q8",
+    "hp": "220",
+    "price": "7300",
+    "id": 832
+  }
+]

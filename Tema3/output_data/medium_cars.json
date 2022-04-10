@@ -1,0 +1,65 @@
+[
+  {
+    "brand": "dacia",
+    "model": "duster",
+    "hp": "100",
+    "price": "1200",
+    "id": 633
+  },
+  {
+    "brand": "bmw",
+    "model": "seria 3",
+    "hp": "160",
+    "price": "4300",
+    "id": 691
+  },
+  {
+    "brand": "renault",
+    "model": "laguna",
+    "hp": "80",
+    "price": "1100",
+    "id": 521
+  },
+  {
+    "brand": "ford",
+    "model": "focus",
+    "hp": "105",
+    "price": "1600",
+    "id": 203
+  },
+  {
+    "brand": "ford",
+    "model": "puma",
+    "hp": "130",
+    "price": "4000",
+    "id": 532
+  },
+  {
+    "brand": "ford",
+    "model": "mondeo",
+    "hp": "150",
+    "price": "3500",
+    "id": 758
+  },
+  {
+    "brand": "volkswagen",
+    "model": "golf 8",
+    "hp": "160",
+    "price": "4000",
+    "id": 811
+  },
+  {
+    "brand": "volkswagen",
+    "model": "passat",
+    "hp": "140",
+    "price": "4500",
+    "id": 668
+  },
+  {
+    "brand": "renault",
+    "model": "megane",
+    "hp": "105",
+    "price": "3500",
+    "id": 446
+  }
+]

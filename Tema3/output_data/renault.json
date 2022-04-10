@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "renault",
+    "model": "laguna",
+    "hp": "80",
+    "price": "1100",
+    "id": 521
+  },
+  {
+    "brand": "renault",
+    "model": "megane",
+    "hp": "105",
+    "price": "3500",
+    "id": 446
+  }
+]

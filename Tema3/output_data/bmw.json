@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "bmw",
+    "model": "x6",
+    "hp": "205",
+    "price": "5800",
+    "id": 87
+  },
+  {
+    "brand": "bmw",
+    "model": "seria 3",
+    "hp": "160",
+    "price": "4300",
+    "id": 691
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "brand": "volkswagen",
+    "model": "golf 8",
+    "hp": "160",
+    "price": "4000",
+    "id": 811
+  },
+  {
+    "brand": "volkswagen",
+    "model": "passat",
+    "hp": "140",
+    "price": "4500",
+    "id": 668
+  },
+  {
+    "brand": "volkswagen",
+    "model": "phaeton",
+    "hp": "400",
+    "price": "6500",
+    "id": 696
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "dacia",
+    "model": "logan",
+    "hp": "65",
+    "price": "700",
+    "id": 130
+  },
+  {
+    "brand": "dacia",
+    "model": "duster",
+    "hp": "100",
+    "price": "1200",
+    "id": 633
+  },
+  {
+    "brand": "renault",
+    "model": "laguna",
+    "hp": "80",
+    "price": "1100",
+    "id": 521
+  },
+  {
+    "brand": "ford",
+    "model": "focus",
+    "hp": "105",
+    "price": "1600",
+    "id": 203
+  },
+  {
+    "brand": "renault",
+    "model": "megane",
+    "hp": "105",
+    "price": "3500",
+    "id": 446
+  }
+]

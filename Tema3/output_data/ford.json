@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "ford",
+    "model": "focus",
+    "hp": "105",
+    "price": "1600",
+    "id": 203
+  },
+  {
+    "brand": "ford",
+    "model": "puma",
+    "hp": "130",
+    "price": "4000",
+    "id": 532
+  },
+  {
+    "brand": "ford",
+    "model": "mustang",
+    "hp": "330",
+    "price": "7000",
+    "id": 232
+  },
+  {
+    "brand": "ford",
+    "model": "mondeo",
+    "hp": "150",
+    "price": "3500",
+    "id": 758
+  }
+]
